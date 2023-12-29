@@ -5,3 +5,8 @@ A modern youtube clone application in React Js using Material UI 5. I have used 
 The app has all features including searching, video player, channel viewer, suggested videos, and is completely Responsive on both desktop and mobile devices.
 
 Access the site demo here: https://youtube-clone-suvamarya.netlify.app/
+
+ # Screenshot
+Here we have project screenshot :
+
+![screenshot](screenshot.png)
