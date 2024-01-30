@@ -16,6 +16,8 @@ import {  SupportAgent, Whatshot } from '@mui/icons-material';
 
 export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
+export const YoutubeLogo ='https://i.ibb.co/5k7yvvq/logo-Youtube.jpg'
+
 export const categories = [
   { name: 'Youtube', icon: <HomeIcon />, },
   { name: 'Trending',icon: <Whatshot />, },

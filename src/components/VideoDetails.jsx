@@ -37,6 +37,9 @@ const VideoDetails = () => {
         <Box flex={1}>
           <Box
             sx={{
+              sm:{
+                paddingLeft:'5px'
+              },
               width: "95%",
               position: "sticky",
               top: "75px",
